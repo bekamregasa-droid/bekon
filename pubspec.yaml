@@ -1,0 +1,81 @@
+name: bekon
+description: Discover your career path with Bekon
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # UI
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.5.0
+  lottie: ^2.7.0
+  
+  # Storage
+  shared_preferences: ^2.2.2
+  flutter_secure_storage: ^9.0.0
+  
+  # State Management (optional - can add later)
+  # provider: ^6.1.1
+  # riverpod: ^2.4.9
+  
+  # Utilities
+  intl: ^0.18.1
+  url_launcher: ^6.2.4
+  path_provider: ^2.1.1
+  device_info_plus: ^9.1.1
+  package_info_plus: ^5.0.1
+  
+  # Charts & Visualizations
+  fl_chart: ^0.66.0
+  
+  # Images & Icons
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  
+  # Authentication (add when ready for Firebase)
+  # firebase_core: ^2.24.2
+  # firebase_auth: ^4.16.0
+  
+  # Database (add when ready)
+  # cloud_firestore: ^4.15.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/animations/
+  
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Inter-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Inter-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Inter-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Inter-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Inter-Black.ttf
+          weight: 900
