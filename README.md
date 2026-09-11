@@ -4,12 +4,12 @@ Bekon helps you discover careers that align with your natural strengths and pers
 
 ## Features
 
-- 🧠 **Cognitive Assessment Games** - 6 different games measuring various abilities
-- 📊 **Personalized Results** - Detailed analysis of your strengths
-- 🎯 **Career Matching** - Find careers that match your profile
-- 📈 **Progress Tracking** - Monitor your development over time
-- 👤 **User Profile** - Save and manage your preferences
-- ⚙️ **Comprehensive Settings** - Customize your experience
+-  **Cognitive Assessment Games** - 6 different games measuring various abilities
+-  **Personalized Results** - Detailed analysis of your strengths
+-  **Career Matching** - Find careers that match your profile
+-  **Progress Tracking** - Monitor your development over time
+-  **User Profile** - Save and manage your preferences
+-  **Comprehensive Settings** - Customize your experience
 
 ## Screens
 
