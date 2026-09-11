@@ -4,7 +4,7 @@ Bekon is a mobile app I built to help students figure out career paths that actu
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * **Framework:** Flutter & Dart
 * **Backend:** Firebase (Auth & Firestore)
@@ -27,6 +27,14 @@ Bekon is a mobile app I built to help students figure out career paths that actu
 2. **Assessment Suite:** Interactive games to measure cognitive skills.
 3. **Results & Dashboard:** Clear visualizations showing core strengths and career matches.
 4. **Career Explorer:** Deep dives into recommended job roles and industries.
+
+---
+
+## 📱 Download & Test the App
+
+You can download and install the pre-compiled Android APK directly to test the app on your device.
+
+* 📥 [**Download Bekon APK (Google Drive)**] https://drive.google.com/drive/folders/1mgV9X1eO_0vDA0HplBMB7v3fCa7ATogX
 
 ---
 
