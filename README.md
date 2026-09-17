@@ -14,14 +14,13 @@ Bekon is a mobile app I built to help students figure out career paths that actu
 
 ##  Key Features
 
+* **Onboarding & Auth:** Intro screens with secure sign-up/login.
 * **6 Brain Assessment Games:** Quick minigames that test memory, pattern recognition, and how fast you solve problems.
 * **Smart Career Matching:** Recommends specific career paths based on performance data.
 * **Visual Analytics:** Easy-to-read breakdowns of strengths.
-* **Onboarding & Auth:** Intro screens with secure sign-up/login.
-* **Assessment Suite:** Interactive games.
 * **Results:** Clear visualizations showing core strengths and career matches.
-* **Career Explorer:** Deep dives into recommended job and industries.
-
+* **Career Explorer:** Dives into recommended job and industries.
+* **Settings and account:** You can change the appearance and log out 
 ---
 
 ##  Download & Test the App
