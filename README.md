@@ -1,6 +1,6 @@
 # Bekon: Career Discovery App
 
-Bekon is a mobile app built to help students figure out career paths that actually fit how they think. Because college students lack academic counseling. Instead of boring text surveys, it uses short interactive games to measure cognitive strengths. Then match users with careers that fit with their natural abilities.
+Bekon is a mobile app built to help students figure out career paths that actually fit how they think. In Ethiopia, many college students lack academic counseling. Instead of boring text surveys, it uses short interactive games to measure cognitive strengths. Then match users with careers that fit with their natural abilities.
 
 ---
 
