@@ -25,7 +25,7 @@ Bekon is a mobile app I built to help students figure out career paths that actu
 
 ##  Download & Test the App
 
-You can download the pre-compiled Android APK directly to test the app.
+You can download the Android APK to test the app.
 
 *  [**Download Bekon APK (Google Drive)**] https://drive.google.com/drive/folders/1mgV9X1eO_0vDA0HplBMB7v3fCa7ATogX
 
