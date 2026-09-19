@@ -24,10 +24,11 @@ Bekon is a mobile app built to help students figure out career paths that actual
 ---
 
 ## Key Metrics & Impact
-* **Registered Users:** 456 active student accounts[span_3](start_span)[span_3](end_span)
+* **Registered Users:** 456 active student accounts
 
 ## User Feedback
 ![User Feedback](screenshots/gather.png)
+
 ---
 
 ##  Download & Test the App
